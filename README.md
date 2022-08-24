@@ -6,5 +6,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with NodeJS and ReactJS
 - 📫 How to reach me: eduardo.cardoso.j221@gmail.com
 - 😄 Pronouns: He/She
-- ⚡ Fun fact: I'm brazilian!
 
