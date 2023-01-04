@@ -1,5 +1,5 @@
 
-## Hello hello, eu sou Eduardo, desenvolvedor junior FullStack!
+## Hello hello, eu sou Eduardo, desenvolvedor Font-End!
 
 <div align="center">
   <a href="https://github.com/DuhCardoso">
