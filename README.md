@@ -121,4 +121,8 @@ Trago meus conhecimentos e projetos com muito amor dentro do meu [portfolio prof
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
+/><br/>
+
+---
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Duhcardoso&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
